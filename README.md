@@ -13,3 +13,37 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 - 📝 Well-structured Java Code
 
 > Consistency over perfection — one problem at a time. 
+## 📂 Repository Structure
+
+```text
+DSA_JAVA
+│
+├── 📂 Learning
+│   └── README.md
+│
+├── 📂 LeetCode_Daily
+│   └── README.md
+│
+└── README.md
+```
+
+### 📁 Folder Description
+
+#### 📘 Learning
+This folder contains my day-to-day learning in Java and Data Structures & Algorithms, including:
+- Java concepts
+- DSA topic implementations
+- Algorithms
+- Practice programs
+- Notes and examples
+
+#### 💻 LeetCode_Daily
+This folder contains my daily solved LeetCode problems in Java. Each solution includes:
+- Problem statement/link
+- Java solution
+- Approach
+- Time & Space Complexity (where applicable)
+
+---
+
+> 🚀 **Goal:** Consistently improve problem-solving skills by learning new concepts and solving coding challenges every day.
