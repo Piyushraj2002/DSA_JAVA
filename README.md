@@ -1,2 +1,15 @@
-# DSA_JAVA
-This repository contains my Java-based Data Structures and Algorithms solutions from LeetCode, coding platforms, and personal learning. It serves as a record of my progress and continuous improvement in problem-solving.
+
+# Switching from c++ to Java
+
+Welcome to **DSA_JAVA**! 👋
+
+This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems implemented in **Java**. It includes problems solved on **LeetCode** and other coding platforms, along with concepts and implementations I learn throughout my programming journey.
+
+## 📌 What's Inside?
+- 🧩 LeetCode Solutions
+- 📚 Data Structures Implementations
+- ⚡ Algorithm Practice
+- 🎯 Interview Preparation
+- 📝 Well-structured Java Code
+
+> Consistency over perfection — one problem at a time. 
