@@ -47,3 +47,11 @@ This folder contains my daily solved LeetCode problems in Java. Each solution in
 ---
 
 > 🚀 **Goal:** Consistently improve problem-solving skills by learning new concepts and solving coding challenges every day.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
