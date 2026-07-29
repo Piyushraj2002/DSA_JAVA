@@ -53,5 +53,6 @@ This folder contains my daily solved LeetCode problems in Java. Each solution in
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
