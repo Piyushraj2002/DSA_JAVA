@@ -55,4 +55,25 @@ This folder contains my daily solved LeetCode problems in Java. Each solution in
 | ------- |
 | [0007-reverse-integer](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0877-stone-game) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
