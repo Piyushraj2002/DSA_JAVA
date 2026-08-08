@@ -59,6 +59,7 @@ This folder contains my daily solved LeetCode problems in Java. Each solution in
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0027-remove-element) |
 | [0877-stone-game](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -76,4 +77,8 @@ This folder contains my daily solved LeetCode problems in Java. Each solution in
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Piyushraj2002/DSA_JAVA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
